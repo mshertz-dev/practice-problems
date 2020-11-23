@@ -1,5 +1,7 @@
-# Problem 5 (Easy)
-# Write a program that calculates yards per carry for 3 three top running backs. Store the player data in a list of dictionaries, where each dictionary corresponds to a separate player. Iterate over each dictionary using a for loop.
+# Problem 6 (Very Hard)
+# For each player in the program you created above, write a program that finds the player with the max rushing yards. You should still store player data in a list of dictionaries.
+
+# You should leverage for and if here. I'll offer an alternative solution in the problem_6.py file as there are multiple ways to go about this problem.
 
 players = [
     {
